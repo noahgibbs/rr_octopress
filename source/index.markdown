@@ -3,10 +3,13 @@ layout: page
 title: "The Best Code in the World, Sitting Idle in Your Repo, Is Worthless"
 comments: false
 sharing: false
+sidebar: false
 footer: true
 no_navbar: true
 ---
 How much of your well-crafted, beautiful code never gets used?
+
+{% img right /images/hasnt_retweeted_600.png 600 247 "Igor says: Brad Pitt hasn't retweeted his favorite products with our app, master!" "Oh, I guess he's too pretty to tweet right now." %}
 
 How much of your code never even ships?  It’s on a computer somewhere,
 but nobody else can use it?
@@ -26,6 +29,8 @@ of your code never even makes it that far?
 
 
 ## What If You Could Change the World Today?
+
+{% img right /images/science_is_impeccable_700.png 700 316 "Master says: Impossible!  My white lab coat just arrived and my science is impeccable!  Hit reload!" "First step they skipped: deployment." %}
 
 Imagine your code being available, testable, <b>usable</b> immediately.  As quickly as you get it working, you could just send out a link to it.  Igors could sign up for your LinkedIn clone, people could submit a gigabyte or two of test data to your signal extractor or Arduino-based monster-builders could download your new firmware with the latest rampage patterns…  Instantly.
 
@@ -53,18 +58,16 @@ straightforward way to kick it out the door.
 
 And it’ll run.  And you can send out links to it.  And people can use it.
 
-
+{% img /images/change_for_better_800.png 800 438 "A mad scientist and assistant - 'Every change is a change for the better!'" "What else would 'change' mean, after all?" %}
 
 # Mad Scientists Get What They Want, Or Else
 
 You know what you do.  You know what you want.
 
-So: try this out for sixty days.  Or ninety days.  Or six months.  If
-it’s not what you want, email me back and get a refund.  I’ll ask you
-why… afterward.  And you don’t have to tell me.  First, I’ll refund
-your money.
+So: try this out for six months.  If it’s not what you want, email me
+and get a refund.
 
-You’ll have my personal email address.  If you write me, I’ll read it.
+You’ll have my personal email address.  I read every message you send.
 
 [Excerpt - “Praise for Rebuilding Rails”]
 
@@ -72,12 +75,9 @@ You’ll have my personal email address.  If you write me, I’ll read it.
 
 # Join Us Now
 
-This ebook costs $50 -- for now.  It will get more expensive.  You’ll
-also need to pay between $5 and $20 per month to a hosting company of
-your choice if you deploy to a VPS.  You may also have to pay a bit
-($0.06/hr, or up to $44/month) to deploy to EC2, if you keep the EC2
-instance up and running.  I don’t get that money, but you’ll still
-need to pay it.
+This ebook costs $50 -- for now.  It will get more expensive.  Later,
+you’ll probably have to pay some company for hosting (except the
+initial free EC2 time).
 
 There will also be a number of interviews and supplemental material —
 extra information from people who build a lot of the tools you’ll be
@@ -90,5 +90,3 @@ it.  As with Rebuilding Rails, the pre-orders get you only the early
 chapters, and more as I write them.  But I’ll fix errors and expand
 things my early readers ask for as I go along.  Want to be one of
 those early readers?
-
-
