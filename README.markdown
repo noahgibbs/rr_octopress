@@ -1,6 +1,6 @@
-## MadRubyScience.com, Octopress Setup
+## Rebuilding-Rails.com, Octopress site.
 
-I'm using Octopress, Octostrap3 and the Bootswatch Readable Theme.
+I'm using Octopress, Octostrap3 and a Bootswatch theme.
 
 The rest is just content.
 
